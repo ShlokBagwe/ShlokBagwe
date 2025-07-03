@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="assets/cyberpunk-city-neon.gif" alt="Cyberpunk Coder" height ="400 "width="800"  />
+</p>
+
+
 # Hola 👋, I'm Shlok Bagwe
 
 ### Aspiring Data Scientist from India 🇮🇳
