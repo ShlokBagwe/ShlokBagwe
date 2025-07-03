@@ -12,7 +12,7 @@
 
 🤖 | Fun Fact: More Coding Nights with ChatGPT than humans.
 
-📝 | Eiger to find Insights from messy Data's.
+📝 | Eiger to find Insights from messy Data.
 
 
 ## Skills
